@@ -66,14 +66,21 @@ War" dapat membantu kita menyelesaikan CTF ini. Flag yang akan kita cari dalam t
 
 
 ### Batu 1
-![](img/1.png)
-![](img/2.png)
+Buka virtual box emulator HA: Infinity Stones, maka tampilannya seperti dibawah ini:<br>
+![](img/1.png)<br>
+Lakukan scanning network dengan netdiscover untuk mendapat IP dari virtual box HA: Infinity Stones, letak IP nya terdapat pada IP dengan MAC Vendor/ Hostname: _PCS Systemtechnik GmbH_.  
+![](img/2.png)<br>
+Scanning IP yang didapat dengan NMap, hasil dari scanning tersebut terdapat flag (stone) yaitu **MINDSTONE**.
 ![](img/3.png)
 
 ### Batu 2
-![](img/4.png)
-![](img/5.png)
-![](img/6.png)
+Buka IP di browser, dan hasilnya:
+![](img/4.png)<br>
+Pilih tab either pada laman browser yang dibuka. Terdapat beberapa pertanyaan, tetapi ada kata kunci yang menerangkan _Computers tell us Binary is the path to Reality_ yang artinya nilai binary ini menunjukkan pada Reality (Reality Stones). Untuk jawaban false = 0 dan true = 1. Didapat jawaban yang benar dengan dari 8 pertanyaan yaitu **01101001**.
+![](img/5.png)<br>
+Lalu buka IP/Hasil jawaban yang berupa binary di laman browser. Terdapat hints.txt yang isinya berupa code.
+![](img/6.png)<br>
+Code yang didapat di decode dengan Brainfuck Decoder Language. Didapat hasil **admin: avangers**.
 ![](img/7.png)
 ![](img/8.png)
 ![](img/9.png)
