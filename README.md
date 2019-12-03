@@ -21,6 +21,7 @@ War" dapat membantu kita menyelesaikan CTF ini. Flag yang akan kita cari dalam t
 - Time Stone
 - Power Stone
 - Soul Stone
+- Space Stone
 
 **Download HA: Infinity Stones** [di sini](https://www.vulnhub.com/entry/ha-infinity-stones,366/)<br>
 **Level : Intermediate**<br>
@@ -64,9 +65,12 @@ War" dapat membantu kita menyelesaikan CTF ini. Flag yang akan kita cari dalam t
 ## Privilage Escalation
 
 
+### Batu 1
 ![](img/1.png)
 ![](img/2.png)
 ![](img/3.png)
+
+### Batu 2
 ![](img/4.png)
 ![](img/5.png)
 ![](img/6.png)
@@ -76,9 +80,15 @@ War" dapat membantu kita menyelesaikan CTF ini. Flag yang akan kita cari dalam t
 ![](img/10.png)
 ![](img/11.png)
 ![](img/12.png)
+
+<!--
+### Batu 3
 ![](img/13.png)
 ![](img/14.png)
 ![](img/15.png)
+-->
+
+### Batu 3
 ![](img/16.png)
 ![](img/17.png)
 ![](img/18.png)
@@ -86,14 +96,20 @@ War" dapat membantu kita menyelesaikan CTF ini. Flag yang akan kita cari dalam t
 ![](img/20.png)
 ![](img/21.png)
 ![](img/22.png)
+
+### Batu 4
 ![](img/23.png)
 ![](img/24.png)
 ![](img/25.png)
+
+### Batu 5
 ![](img/26.png)
 ![](img/27.png)
 ![](img/28.png)
 ![](img/29.png)
 ![](img/30.png)
+
+### Batu 6
 ![](img/31.png)
 ![](img/32.png)
 ![](img/33.png)
